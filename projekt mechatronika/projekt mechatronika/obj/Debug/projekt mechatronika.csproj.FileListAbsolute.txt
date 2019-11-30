@@ -1,0 +1,9 @@
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\bin\Debug\projekt mechatronika.exe.config
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\bin\Debug\projekt mechatronika.exe
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\bin\Debug\projekt mechatronika.pdb
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt mechatronika.csprojAssemblyReference.cache
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt_mechatronika.Form1.resources
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt_mechatronika.Properties.Resources.resources
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt mechatronika.csproj.GenerateResource.cache
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt mechatronika.exe
+C:\Users\cwiat\source\repos\projekt mechatronika\projekt mechatronika\obj\Debug\projekt mechatronika.pdb
